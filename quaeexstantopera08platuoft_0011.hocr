@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaeexstantopera08platuoft_0011.png"; bbox 0 0 1702 2918; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 186 793 1565 956">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 186 793 1565 956">
+     <span class='ocr_line' id='line_1_1' title="bbox 186 793 1565 866; baseline 0.001 -12"><span class='ocrx_word' id='word_1_1' title='bbox 186 805 560 854; x_wconf 76' lang='grc' dir='ltr'><em>ΑΘΗΝΛΙΟΣ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 607 793 864 862; x_wconf 79' lang='grc' dir='ltr'><strong><em>ΞΕΝΟΣ,</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 951 798 1309 857; x_wconf 75' lang='grc' dir='ltr'><em>ΚΛΕΙΜΑΣ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1356 807 1565 866; x_wconf 76' lang='grc' dir='ltr'><strong><em>ΚΡΗΣ,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 364 906 1395 956; baseline 0.003 -5"><span class='ocrx_word' id='word_1_5' title='bbox 364 906 752 955; x_wconf 76' lang='grc' dir='ltr'><em>ΜΕΓΙΛΛΟΣ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 784 907 1395 956; x_wconf 78' lang='grc' dir='ltr'><em>ΛΑΚΕΑΛῙΜΟΝΙΟΣ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 187 1143 1570 1334">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 187 1143 1570 1334">
+     <span class='ocr_line' id='line_1_3' title="bbox 187 1143 1570 1237; baseline 0.006 -17"><span class='ocrx_word' id='word_1_7' title='bbox 187 1146 632 1221; x_wconf 80' lang='lat' dir='ltr'><strong>ATHENIENSIS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 667 1173 948 1237; x_wconf 77' lang='lat' dir='ltr'><strong>HosPES,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 987 1143 1258 1224; x_wconf 35' lang='lat' dir='ltr'>CLINIAS&#39;</span> <span class='ocrx_word' id='word_1_10' title='bbox 1280 1177 1570 1228; x_wconf 82' lang='lat' dir='ltr'>CRETEN-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 322 1264 1434 1334; baseline 0.005 -15"><span class='ocrx_word' id='word_1_11' title='bbox 322 1270 446 1334; x_wconf 88' lang='lat' dir='ltr'>SIS,</span> <span class='ocrx_word' id='word_1_12' title='bbox 475 1264 820 1323; x_wconf 82' lang='lat' dir='ltr'>MEGILLUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 843 1273 1434 1327; x_wconf 76' lang='lat' dir='ltr'><strong>LACEDAEMONIUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1213 2762 1388 2811">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1213 2762 1388 2811">
+     <span class='ocr_line' id='line_1_5' title="bbox 1213 2762 1388 2811; baseline 0.011 -2"><span class='ocrx_word' id='word_1_14' title='bbox 1213 2762 1388 2811; x_wconf 41' lang='lat' dir='ltr'><strong>An*</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
